@@ -32,3 +32,15 @@ theme = ["github.com/adityatelange/hugo-PaperMod"]
     name = "Scripts"
     url = "/scripts/"
     weight = 4
+
+[params.homeInfoParams]
+  Title = "Welcome to Homelab Notes"
+  Content = """
+  Central hub for documenting your homelab setup.
+
+  - [First Post](/posts/first-post/)
+  - [Welcome](/posts/welcome/)
+  - [Media Stack Overview](/media/overview/)
+  - [Network Notes](/network/index/)
+  - [Script Library](/scripts/intro/)
+  """
