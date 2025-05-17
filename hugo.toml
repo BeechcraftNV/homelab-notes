@@ -1,4 +1,4 @@
-baseURL = "https://homelab-notes.netlify.app/"
+baseURL = "https://c84dbf71.homelab-notes.pages.dev/"
 languageCode = "en-us"
 title = "Homelab Notes"
 theme = ["github.com/adityatelange/hugo-PaperMod"]
