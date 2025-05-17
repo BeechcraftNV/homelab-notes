@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://homelab-notes.netlify.app/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Homelab Notes'
 theme = ["github.com/HEIGE-PCloud/DoIt"]
