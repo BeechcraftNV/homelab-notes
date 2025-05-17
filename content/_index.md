@@ -1,11 +1,13 @@
----
-title: "Welcome to Homelab Notes"
-description: "This is the central hub for documenting your homelab setup."
----
++++
+title = "Welcome to Homelab Notes"
+description = "Central hub for documenting your homelab setup."
+draft = false
++++
 
 ### 🔧 Homelab Projects
-- **Media Automation Stack**: Radarr, Sonarr, Plex, etc.
-- **Network Tools**: Pi-hole, Tailscale, DNS setup
-- **Scripts & Utilities**: Bash, Python, system tools
 
-Check the navigation above to jump into a section.
+- [First Post](/posts/first-post/)
+- [Welcome](/posts/welcome/)
+- [Media Stack Overview](/media/overview/)
+- [Network Notes](/network/index/)
+- [Script Library](/scripts/intro/)
