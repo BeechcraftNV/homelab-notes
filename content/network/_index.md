@@ -1,4 +1,5 @@
----
-title: "Network"
-description: "Your networking stack: Pi-hole, Tailscale, DNS configuration."
----
++++
+title = "Network"
+description = "Your networking stack: Pi-hole, Tailscale, DNS configuration."
+draft = false
++++

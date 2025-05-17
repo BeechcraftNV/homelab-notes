@@ -1,4 +1,5 @@
----
-title: "Scripts"
-description: "Bash, Python, and utility scripts to manage your homelab."
----
++++
+title = "Scripts"
+description = "Bash, Python, and utility scripts to manage your homelab."
+draft = false
++++
