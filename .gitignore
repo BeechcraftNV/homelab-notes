@@ -1,0 +1,28 @@
+curl -o .gitignore https://raw.githubusercontent.com/github/gitignore/main/Go.gitignore
+cat << 'EOF' >> .gitignore
+
+# Hugo
+/public/
+/resources/
+.hugo_build.lock
+/hugo_stats.json
+publishDir/
+
+# OS
+.DS_Store
+Thumbs.db
+._*
+
+# Node
+/node_modules/
+package-lock.json
+yarn.lock
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+EOF
