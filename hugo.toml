@@ -11,3 +11,24 @@ theme = ["github.com/adityatelange/hugo-PaperMod"]
   ShowCodeCopyButtons = true
   ShowWordCount = true
   googleAnalytics = ""  # disables the broken partial error
+
+  [menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Media"
+    url = "/media/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Network"
+    url = "/network/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Scripts"
+    url = "/scripts/"
+    weight = 4
