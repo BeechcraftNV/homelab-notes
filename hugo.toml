@@ -1,6 +1,13 @@
 baseURL = "https://homelab-notes.netlify.app/"
-languageCode = 'en-us'
-title = 'Homelab Notes'
+languageCode = "en-us"
+title = "Homelab Notes"
 theme = ["github.com/adityatelange/hugo-PaperMod"]
 
-
+[params]
+  env = "production"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  googleAnalytics = ""  # disables the broken partial error
