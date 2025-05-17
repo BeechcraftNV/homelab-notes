@@ -1,4 +1,6 @@
 baseURL = "https://homelab-notes.netlify.app/"
 languageCode = 'en-us'
 title = 'Homelab Notes'
-theme = ["github.com/HEIGE-PCloud/DoIt"]
+## theme = ["github.com/HEIGE-PCloud/DoIt"]
+theme = ["github.com/adityatelange/hugo-PaperMod"]
+
